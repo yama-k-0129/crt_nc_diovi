@@ -20,6 +20,10 @@ https://qiita.com/fumigoro/items/a07f1e6f059ad4b2b3d2#visual-studio-code-の拡�
 
 2. rapfile形式をtext形式に変換する
 
+以下ディレクトリを参照（コード・データフォーマットファイル格納）
+https://github.com/yama-k-0129/CD_data
+
+
 - ターミナルで「wsl」と入力
 - 作業ディレクトリ（フォルダ）を作成し、そこに移動する「mkdir ~」「cd ~」
 - 続いて、ターミナルで「code .」を入力するとvscodeを開く
